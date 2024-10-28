@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm John Okyere from Ghana
-- 🌱 I’m currently Studying ICT with Mathematics Education and also studying SOftware Engineering at ALX
+- 🌱 Im offering Computer Science at Uopeople and ICT at UEW with a keen interest in Software Engineering 
 
 
 ### Programming Languages
